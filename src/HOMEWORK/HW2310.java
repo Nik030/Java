@@ -1,4 +1,4 @@
-package LESSON.HOMEWORK;
+package HOMEWORK;
 
 public class HW2310 {
     public static void main(String[] args) {
