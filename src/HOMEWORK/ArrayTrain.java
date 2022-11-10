@@ -40,17 +40,17 @@ public class ArrayTrain {
 //
 //
 // ЗАДАЧА НА МАССИВЫ // СОЗДАТЬ НОВЫЙ МАССИВ С НЕЧЕТНЫМИ ЧИСЛАМИ
-  public static void ArrayHomework() {
-       int[] array1 = {12, 1, 32, 90, 10, 11, 30, 49, 33, 34, 27, 7, 21};
-       int Count = 0;
+ // public static void ArrayHomework() {
+ //      int[] array1 = {12, 1, 32, 90, 10, 11, 30, 49, 33, 34, 27, 7, 21};
+ //      int Count = 0;
 
   //     for (int i = 0;  < array1; i++){
 
-       }
+ //      }
 
 
 
-}
+//}
 
 
 
