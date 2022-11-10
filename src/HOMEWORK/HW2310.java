@@ -1,7 +1,7 @@
 package HOMEWORK;
 
 public class HW2310 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  //Среднее арифмитическое числа
         int intValue1 = 0;
         int intValue2 = 1;
         int intValue3 = 2;
