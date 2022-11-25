@@ -1,6 +1,6 @@
-package CLASSWORK.Array;
+package a40_41.CLASSWORK40_41.Array;
 
-import CLASSWORK.Utility.ArrayUtil;
+import a40_41.CLASSWORK40_41.Utility.ArrayUtil;
 
 import java.util.Arrays;
 

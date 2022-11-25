@@ -1,4 +1,4 @@
-package HOMEWORK;
+package a40_41.HOMEWORK_40_41M;
 
 public class ArrayHomework {
     public static void main(String[] args) {   /// Из двух массивов создать один

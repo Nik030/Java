@@ -1,4 +1,4 @@
-package HOMEWORK;
+package a40_41.HOMEWORK_40_41M;
 
 public class HW2310 {
     public static void main(String[] args) {  //Среднее арифмитическое числа

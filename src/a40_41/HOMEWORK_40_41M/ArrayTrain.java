@@ -1,4 +1,4 @@
-package HOMEWORK;
+package a40_41.HOMEWORK_40_41M;
 
 public class ArrayTrain {
     // train

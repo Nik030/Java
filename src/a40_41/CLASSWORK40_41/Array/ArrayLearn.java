@@ -1,4 +1,4 @@
-package CLASSWORK.Array;
+package a40_41.CLASSWORK40_41.Array;
 
 public class ArrayLearn {
 
