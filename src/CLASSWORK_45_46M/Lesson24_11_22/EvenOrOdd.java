@@ -1,4 +1,4 @@
-package HOMEWORK_45_56M;
+package CLASSWORK_45_46M.Lesson24_11_22;
 
 
 public class EvenOrOdd {
